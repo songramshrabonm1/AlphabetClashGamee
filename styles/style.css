@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Poppins:wght@700&display=swap');
+
+.anton-regular {
+    font-family: "Anton", sans-serif;
+    font-weight: 900;
+    font-style: bold;
+  }
+  
+.poppins-bold {
+    font-family: "Poppins", serif;
+    font-weight: 700;
+    font-style: normal;
+  }
+  .backGroundPicAdded{
+    
+      background: url('/images/background.png');
+      background-repeat: no-repeat;
+      background-position: center;
+      /* background-size: cover; */
+      height: 100vh;
+  }
