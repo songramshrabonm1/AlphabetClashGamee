@@ -75,8 +75,6 @@ function KeyUpPressedEvent(event){
         }else{
             continueGame();
         }
-
-
     }
 
 }
